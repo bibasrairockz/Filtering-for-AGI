@@ -12,3 +12,5 @@ plt.show()
 # Catch change
 # Focus
 # Focus in high intensities
+# Catch from memory pattern and servival  
+
