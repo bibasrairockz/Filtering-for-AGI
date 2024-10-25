@@ -11,3 +11,4 @@ plt.show()
 # Blur
 # Catch change
 # Focus
+# Focus in high intensities
